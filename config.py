@@ -5,17 +5,17 @@ from logging.handlers import RotatingFileHandler
 
 
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7760077964:AAFPFV_JRmmcTxPmWhpvDVIxkpLtz57EdkE")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7946427456:AAEB9MbR1BJwTmK0DjIil3VLdoqZP6FkrkE")
 API_ID = int(os.environ.get("API_ID", "25804260"))
 API_HASH = os.environ.get("API_HASH", "c3e81de190dbda62f316548599498472")
 
 
 OWNER_ID = int(os.environ.get("OWNER_ID", "7996992200"))
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://khajawazeer:<7867860>@cluster0.tapo5.mongodb.net/")
-DB_NAME = os.environ.get("DB_NAME", "Khaja wazeer")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://Outlawbots:Zoro@cluster0.huekk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_NAME = os.environ.get("DB_NAME", "Khaja_wazeer")
 
 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002267826297"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002384358150"))
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "0"))
 
 
